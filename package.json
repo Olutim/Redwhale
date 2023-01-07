@@ -1,0 +1,24 @@
+{
+  "name": "redwhale",
+  "version": "1.0.0",
+  "description": "Analytic Dashboard for Creators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olutim/Redwhale.git"
+  },
+  "keywords": [
+    "Analytics",
+    "Dashboard",
+    "Bootstrap"
+  ],
+  "author": "Olutim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olutim/Redwhale/issues"
+  },
+  "homepage": "https://github.com/Olutim/Redwhale#readme"
+}
